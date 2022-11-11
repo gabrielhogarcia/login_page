@@ -115,6 +115,12 @@ body *{
     background: #1368D6;
     cursor: pointer;
     box-shadow: 0px 10px 40px 12px #6b9ddd;
+    transition: 0,4s;
+}
+.btn-login:hover{
+    background: #6593cf;
+    border:2px solid #ffffff;
+    color: #FFFFFF;
 }
 
  @media only screen and (max-width:950px){
